@@ -1,5 +1,5 @@
 # freeCodeCamp---Camper-Cafe
-
+<link rel="stylesheet" type="text/css" href="styles/style.css"/>
 <!DOCTYPE html>
 <html lang="en">
   <head>
